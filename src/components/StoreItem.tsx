@@ -53,7 +53,7 @@ const StoreItem = ({ id, name, price, imgUrl }: StoreItemProps) => {
               </div>
               <Button
                 onClick={() => removeFromCart(id)}
-                className="bg-primary"
+                className="bg-danger"
                 size="sm"
               >
                 Remove
