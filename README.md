@@ -9,18 +9,19 @@ This is a shopping cart application built using React and TypeScript, featuring 
 - ✅ Responsive Design: Mobile-friendly UI.
 
 ## Technologies Used
-React (Frontend framework)
-TypeScript (Static typing)
-React Router (Navigation)
-Context API / useReducer (State management)
-Bootstrap / Tailwind CSS (Styling)
-LocalStorage (Cart persistence)
+- React (Frontend framework)
+- TypeScript (Static typing)
+- React Router (Navigation)
+- Context API / useReducer (State management)
+- Bootstrap / Tailwind CSS (Styling)
+- LocalStorage (Cart persistence)
 
 ## 📦 Installation
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/react-shopping-cart.git
+git clone https://github.com/amos-babu/advanced_shopping_cart_typescript_react
+
 cd react-shopping-cart
 ```
 
