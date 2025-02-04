@@ -2,11 +2,11 @@
 This is a shopping cart application built using React and TypeScript, featuring product listings, cart management, and a responsive UI.
 
 ## 🚀 Features
-✅ Product List: View all available products.
-✅ Add to Cart: Easily add/remove items.
-✅ Cart Summary: See total items and cost.
-✅ Local Storage Support: Persist cart data.
-✅ Responsive Design: Mobile-friendly UI.
+- ✅ Product List: View all available products.
+- ✅ Add to Cart: Easily add/remove items.
+- ✅ Cart Summary: See total items and cost.
+- ✅ Local Storage Support: Persist cart data.
+- ✅ Responsive Design: Mobile-friendly UI.
 
 ## Technologies Used
 React (Frontend framework)
